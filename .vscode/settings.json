@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "sdl_video.h": "c",
+        "sdl.h": "c",
+        "avformat.h": "c",
+        "avcodec.h": "c",
+        "swscale.h": "c",
+        "sdl_thread.h": "c",
+        "sdl_render.h": "c",
+        "begin_code.h": "c"
+    }
+}
